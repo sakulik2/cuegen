@@ -10,7 +10,7 @@ a second and hours have to be folded into minutes.
 Paste the tracklist, optionally paste a region export from your audio editor for
 frame-exact cuts, and save the `.cue`.
 
-**Live site:** `https://<your-username>.github.io/cuegen/` once Pages is enabled
+**Live site:** `https://sakulik2.github.io/cuegen/` once Pages is enabled
 (see [Deploying](#deploying)).
 
 ## What it does
